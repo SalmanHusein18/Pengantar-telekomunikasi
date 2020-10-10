@@ -1,0 +1,13 @@
+Troughput
+Bytes / Time span
+6308 / 60.587 = 104,114 bytes
+1 bites = 8 bytes
+104,114 x 8 = 832 bites
+
+Packet Loss = 0%
+
+delay = Total Delay = 60.506.499
+        Rata rata Delay = 10.432.155
+
+Jitter = Total Jitter = 60.432.419
+         Rata rata Jitter = 1.041.983.259
